@@ -6,7 +6,7 @@
 
 此外，加速python可能很多人会想到使用pypy代替CPython来做编译，然而在实际工作中，我发现pypy并不适用于大量使用了pandas的项目，所以这里不再讨论相关内容。
 
-本文所使用的jupyter notebook可以[在这里下载]()
+本文所使用的jupyter notebook可以[在这里下载](https://github.com/Maicius/AccPython/blob/master/code.ipynb)
 
 ### 数据集介绍
 
